@@ -3,6 +3,7 @@ import os
 files = os.listdir()
 
 os.system('cd D:\_KOPP\_github\memes')
+print(os.system('cd'))
 images = ['jpg','jpeg','png']
 
 with open('README.md', 'w+') as f:
