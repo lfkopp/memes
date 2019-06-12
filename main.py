@@ -12,6 +12,10 @@ with open('README.md', 'w+') as f:
 			f.write('<img src="'+str(file)+'" height=250>\n')
 	f.write('</span>')
 
+
+
+
 os.system('git add .')
 os.system('git commit -m atualizando')
+os.system('git pull')
 os.system('git push')
