@@ -1,6 +1,5 @@
 <span style="white-space:nowrap"><img src="0.png" height=250>
 <img src="2019-05-04 21.20.18.png" height=250>
-<img src="2019-07-13 20.06.50.png" height=250>
 <img src="2019-07-21 21.56.43.png" height=250>
 <img src="2019-07-25 18.50.36.png" height=250>
 <img src="2019-08-31 19.21.32.png" height=250>
